@@ -1,12 +1,4 @@
-# Matthew Wearon     
-# Computational Scientist
-
-PhD Materials Science | Machine Learning | Molecular Simulation | Quantum Chemistry
-
-I work at the intersection of Chemistry and Machine Learning, 
-building pipelines that connect experimental data, simulation, and 
-predictive models. My tools are Python, PyTorch, and scientific 
-computing frameworks; my domain is materials, polymers, and Industrial Chemistry.
+# Mat Wearon     
 
 ---
 
