@@ -5,8 +5,6 @@ building pipelines that connect experimental data, simulation, and
 predictive models. My tools are Python, PyTorch, and scientific 
 computing frameworks; my domain is materials, polymers, and industrial chemistry.
 
----
-
 ## Projects
 
 ### Molecular Geometry Change via Non Covalent Interactions
