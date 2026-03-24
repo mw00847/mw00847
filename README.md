@@ -13,7 +13,6 @@ computing frameworks; my domain is materials, polymers, and Industrial Chemistry
 ## Projects
 
 ### Molecular Geometry Change via Non Covalent Interactions
-**Independent Research**
 
 Investigating how molecular geometry changes in mixtures due to non covalent 
 interactions, observed through shifts in FTIR spectroscopy. Combined experimental 
@@ -29,7 +28,6 @@ experimental data.
 ---
 
 ### FTIR Degradation Analysis and DFT Validation
-**Performance Chemicals**
 
 Identifying chemical degradation mechanisms in operating industrial paint stripping 
 tanks from spectroscopic monitoring data. Engineered spectroscopic features from 
@@ -42,7 +40,6 @@ pathways. Delivered via a Streamlit application for non-technical colleagues.
 ---
 
 ### Formulation Data Engineering and ML Tooling
-**Performance Chemicals**
 
 Migrated a legacy formulation database of 1,000+ entries into a fully validated, 
 ML ready dataset using robust numeric parsers and validation logic in Pandas. 
@@ -54,7 +51,6 @@ applications for R&D and manufacturing users.
 ---
 
 ### Polymer Blend Miscibility PhD Research
-**University of Surrey**
 
 Predicting and characterising miscibility and phase behaviour of polyester blends 
 used in industrial coil coatings. Quantified blend miscibility using molecular 
