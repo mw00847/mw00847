@@ -1,4 +1,5 @@
-# Matthew Wearon Computational Scientist
+# Matthew Wearon     
+# Computational Scientist
 
 PhD Materials Science | Machine Learning | Molecular Simulation | Quantum Chemistry
 
