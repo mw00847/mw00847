@@ -1,20 +1,20 @@
-# Matthew Wearon — Computational Scientist
+# Matthew Wearon Computational Scientist
 
 PhD Materials Science | Machine Learning | Molecular Simulation | Quantum Chemistry
 
-I work at the intersection of domain chemistry and machine learning — 
+I work at the intersection of Chemistry and Machine Learning, 
 building pipelines that connect experimental data, simulation, and 
 predictive models. My tools are Python, PyTorch, and scientific 
-computing frameworks; my domain is materials, polymers, and industrial chemistry.
+computing frameworks; my domain is materials, polymers, and Industrial Chemistry.
 
 ---
 
 ## Projects
 
-### Molecular Geometry Change via Non-Covalent Interactions
+### Molecular Geometry Change via Non Covalent Interactions
 **Independent Research**
 
-Investigating how molecular geometry changes in mixtures due to non-covalent 
+Investigating how molecular geometry changes in mixtures due to non covalent 
 interactions, observed through shifts in FTIR spectroscopy. Combined experimental 
 spectroscopy with quantum mechanical calculations and graph-based machine learning 
 (GNNs via PyTorch Geometric). Implemented a full computational pipeline including 
@@ -44,7 +44,7 @@ pathways. Delivered via a Streamlit application for non-technical colleagues.
 **Performance Chemicals**
 
 Migrated a legacy formulation database of 1,000+ entries into a fully validated, 
-ML-ready dataset using robust numeric parsers and validation logic in Pandas. 
+ML ready dataset using robust numeric parsers and validation logic in Pandas. 
 Developed ML models on the cleaned dataset and integrated results into Streamlit 
 applications for R&D and manufacturing users.
 
@@ -52,12 +52,12 @@ applications for R&D and manufacturing users.
 
 ---
 
-### Polymer Blend Miscibility — PhD Research
+### Polymer Blend Miscibility PhD Research
 **University of Surrey**
 
 Predicting and characterising miscibility and phase behaviour of polyester blends 
 used in industrial coil coatings. Quantified blend miscibility using molecular 
-dynamics and Monte Carlo simulations, calculated Flory-Huggins interaction 
+dynamics and Monte Carlo simulations, calculated Flory Huggins interaction 
 parameters, and validated MD results with QM calculations. Developed coarse-grained 
 models using the MARTINI forcefield. Applied PCA and NMF to large mass spectrometry 
 datasets.
