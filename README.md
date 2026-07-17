@@ -67,6 +67,4 @@ datasets.
 
 ---
 
-## Contact
 
-📧 wearonmat@gmail.com
