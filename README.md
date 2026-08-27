@@ -1,7 +1,3 @@
-# Mat Wearon     
-
-I work at the intersection of Chemistry and Machine Learning  building pipelines that connect experimental data, simulation, and predictive models. My tools are Python, PyTorch, and scientific computing frameworks; my domain is materials, polymers, and industrial Chemistry.
-
 ## Projects
 
 ### Molecular Geometry Change via Non Covalent Interactions
